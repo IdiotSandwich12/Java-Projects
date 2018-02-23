@@ -13,7 +13,7 @@ public static void main(String[]args){
   int max = 100;
   int min = 0;
   
-  int random = 0 + (int)(Math.random() * (100 - 0));
+  int random = 0 + (int)(Math.random() * (100 - 0)));
   
   if (random > 0 && random <= 20){
     System.out.println ("Arcane Golemn has dropped a sack containing 200 gold!");
