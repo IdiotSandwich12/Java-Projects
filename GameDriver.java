@@ -54,7 +54,7 @@ public static void main(String[]args) {
   }
   else if (choice == 2){
     System.out.println ("That's Inspector " + name + " to you, Monitor. Take a seat. You have much to learn before even coming close to becoming an Inspector. And it ain't an easy job, kid.");
-    System.out.println ("Misa: Oh, I'm sorry, Inspector + " + name + "!" + "I'll try my best to keep up with whatever you have to teach me.");
+    System.out.println ("Misa: Oh, I'm sorry, Inspector " + name + "!" + " I'll try my best to keep up with whatever you have to teach me.");
   }
   
   int random = 0 + (int)(Math.random() * (90 - 0));
