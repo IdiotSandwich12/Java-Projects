@@ -24,18 +24,19 @@ public static void main(String[]args){
   
   int num = input.nextInt();
   
-  while((num = input.nextInt()) != 0){
-        total = total + num;
-        ++count;
+  while(num != 0){
+        total += num;
+        count++;
     if(num > 0){
-        positive = positive + 1;
+        positive++;
     } 
     if(num < 0){
-        negative = negative + 1;
+        negative++;
     }
+    num = input.nextInt();
   }
 
-     average = (total/count);
+     average = (total / count);
 
      System.out.println("The number of positive numbers is " + positive);
      System.out.println("The number of negative numbers is " + negative);
