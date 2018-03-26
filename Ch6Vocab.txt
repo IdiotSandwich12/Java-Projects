@@ -1,0 +1,37 @@
+Timothy Jou
+CO SCI 290
+
+Definitions and terms for Lab 8
+
+1. Actual parameter - variables/values used when method is invoked. Different from formal parameter.
+
+2. Ambiguous invocation - when there are 2 possible invocations of a method. Causes a compile error.
+
+3. Argument - another term for an actual parameter.
+
+4. Divide and conquer - strategy used in programming, particularly with larger programs, that involves separating a program into
+smaller, more managable components to work on one by one.
+
+5. Formal parameter - variables defined in the method header.
+
+6. Information hiding - when implementation details are encapsulated in the method and hidden from client that invokes a method.
+
+7. Method - collection of statements grouped together to perform a certain operation.
+
+8. Method abstraction - achieved by separating the use of a method from its implementation.
+
+9. Method overloading - when two methods have the same name, but different parameters within a class.
+
+10. Method signature - consists of the method name and parameter list.
+
+11. Modifier - determines type of method. Belongs in the method header.
+
+12. Parameter - another term for formal parameter.
+
+13. Pass-by-value - a value of an argument that is passed to the parameter, done upon invoking a method.
+
+14. Scope of a variable - the range of a variable.
+
+15. Stepwise refinement - another term for the "divide and conquer" strategy
+
+16. Stub - simple, but incomplete version of a method
