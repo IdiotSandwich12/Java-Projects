@@ -13,21 +13,21 @@ public class Midterm{
 
 public static void main(String[]args){
 
-    Scanner input = new Scanner(System.in);
+  Scanner input = new Scanner(System.in);
 
-    System.out.println("Please enter a number. This will determine the size of two matrices.");
-    int n = input.nextInt(); //Obtain user input
+  System.out.println("Please enter a number. This will determine the size of two matrices.");
+  int n = input.nextInt(); //Obtain user input
   
-    System.out.println(); 
-    // Separates a line between inputed and printed numbers. Easier to read on console.
+  System.out.println(); 
+  // Separates a line between inputed and printed numbers. Easier to read on console.
     
-    printMatrix(n);
+  printMatrix(n);
     
-    System.out.println();
-    System.out.println();
-    //Blank lines, separates matrices for clarity
+  System.out.println();
+  System.out.println();
+  //Blank lines, separates matrices for clarity
     
-    printMatrix2(n);
+  printMatrix2(n);
   
     }
   
