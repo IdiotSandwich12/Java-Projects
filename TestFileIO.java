@@ -25,7 +25,7 @@ public static void main(String[] args){
     }
     
     //if there is no file to open, the exception will be caught
-  }catch(IOException e){
+  } catch(IOException e){
     e.printStackTrace();
   }
   
