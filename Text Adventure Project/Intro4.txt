@@ -1,0 +1,10 @@
+Narrator: I probably don't need to tell you this, but you're in some serious danger. Let's get out of here, yeah?
+playerName: Y-yeah. Where do we go though?
+(The Narrator points to a nearby cave to his right.)
+Narrator: That'll do it. It'll be good cover while I set up the Portal. Pretty sure lizard man over there can't smash through it.
+playerName: Seems...awfully convenient, don't you think? Almost like a deus ex machina.
+Narrator: A deus ex what? Screw it, whatever the hell. Let's move it!
+
+(Both you and the Narrator make a mad dash for the cave.)
+Narrator: Come on, come on! Hurry your ass up and get in!
+(You run into the cave. The Narrator conjures green energy that fits the cave entrance, before settling into stone, sealing the entry.)

@@ -1,3 +1,9 @@
+/*
+
+Note that this is a submethod. Should be used in conjunction with TestFileIO.java
+
+*/
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;

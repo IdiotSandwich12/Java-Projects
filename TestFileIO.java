@@ -11,7 +11,7 @@ import java.io.IOException;
 
 public class TestFileIO{
 
-public static void main(String[] args){
+public static void main(String[]args){
   
   String currentLine; //holds current line being read in file
   String filename = "Test.txt"; //holds the relative path of a file
