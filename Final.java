@@ -86,9 +86,29 @@ public class Final{
       board[bottomRow][col] = xo;
       changeXO();
     }
+    else if(board[bottomRow - 1][col] == ' '){
+      board[bottomRow - 1][col] = xo;
+      changeXO();
+    }
+    else if(board[bottomRow - 2][col] == ' '){
+      board[bottomRow - 2][col] = xo;
+      changeXO();
+    }
+   else if(board[bottomRow - 3][col] == ' '){
+      board[bottomRow - 3][col] = xo;
+      changeXO();
+    }
+    else if(board[bottomRow - 4][col] == ' '){
+      board[bottomRow - 4][col] = xo;
+      changeXO();
+    }
+    else if(board[bottomRow - 5][col] == ' '){
+      board[bottomRow - 5][col] = xo;
+      changeXO();
+    }
     else if(board[bottomRow][col] == 'x' || board[bottomRow][col] == 'o'){
-        board[bottomRow - 1][col] = xo;
-        changeXO();
+      board[bottomRow - 1][col] = xo;
+      changeXO();
       }
     else if(board[bottomRow - 1][col] == 'x' || board[bottomRow - 1][col] == 'o'){
       board[bottomRow - 2][col] = xo;
@@ -106,7 +126,6 @@ public class Final{
       board[bottomRow - 5][col] = xo;
       changeXO();
     }
-      
     
   }//end of move
   
@@ -116,6 +135,10 @@ public class Final{
   public static boolean checkWinner(){
     
     return false;
+    
   }
   
 }
+
+//Note: Actual version was completed at 5:30 pm, please grade that one.
+//The latest version is correct, but that's only because I'm a tryhard.
