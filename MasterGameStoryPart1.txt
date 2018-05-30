@@ -1,7 +1,3 @@
-Plot: comedic intro to game > ??? narrator intro > explanation of player situation > large ham intro of big baddy karm > explanation of why player is here
-Narrator: What's important is the reason why you're here. Righto then. Aight kiddo, listen up real close.
-
-
 ???: You ever have those moments where you have no f***ing idea what's going on?
 ???: Where you're lost as s**t and just waiting for some fairy light looking thing to explain what kinda pickle you're in? Oh hey there, kid. You're finally awake.
 
@@ -71,3 +67,4 @@ Narrator: Though I gotta admit, I forgot where they lead to. Doesn't matter I gu
 Narrator: Come on kid! Choose quickly!
 
 > User input here <
+> User chooses blue or red door <

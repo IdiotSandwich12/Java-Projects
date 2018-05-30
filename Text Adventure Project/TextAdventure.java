@@ -20,7 +20,7 @@ public static void main(String[]args){
   filename = "Intro1.txt";
   readFile(filename);
   
-  System.out.println(playername + ": Oh, sh-")
+  System.out.println(playername + ": Oh, sh-");
   
   
 }

@@ -1,0 +1,68 @@
+Narrator: Okay. I think we're in a safe enough place. It's gonna take a while for ugly lizard thing to realize we're gone, let alone even find us.
+Narrator: I'm sure you've got a lot of questions, kid. Ask away. I'll answer what I can.
+
+> User inputs "Who is Kar'm? And what does he have to do with me?" <
+
+Narrator: Hey, that's two questions! Ahem, excuse me...
+Narrator: Well, it's kind of a long story. But I'll shorten it so that you don't lose your attention span.
+Narrator: A long, long time ago, in a place far away, two men, Vint Cerf and Robert E. Kahn, collaborated and created an ass ton of complicated protocols that became the Internet.
+Narrator: That's when Datascape was born. Course, there wasn't anything in it. Yet.
+Narrator: Then, a certain gentleman by the name of Timothy Berners-Lee. He took the work of Kahn and Cerf and improved on it, creating the World Wide Web.
+Narrator: All sorts of whatnot flooded into the Datascape. This place we're in is just one of them.
+Narrator: There was no ruler or anything. Everything here just minded its own business here. Then, everything changed when the Facebook Nation attacked.
+
+playerName: Hang on, what?
+
+Narrator: The Facebook Nation, led by Kar'm, quickly conquered much of the Datascape. Kar'm then proceeded to rule this realm with an iron grip, crushing all opposition and dissidents.
+Narrator: He had the previous Grand Memer executed. It seems that fate has chosen you as the next one.
+Narrator: Granted, if you don't succeed here, another Grand Memer will eventually rise. But that means you'll also die, so....
+Narrator: Yeah. You kinda wanna kick Kar'm's ass, is what I'm saying.
+
+> User inputs "Why am I here?" <
+
+Narrator: I'm pretty sure you've already figured it out, but whatever.
+Narrator: You, as the next Grand Memer, need to eliminate Kar'm to drive out the Facebook Nation's oppression and restore harmony to the Datascape.
+Narrator: Once you have fulfilled your duty, you may return home. And it was kind of Kar'm that summoned you in the first place, so there's that.
+Narrator: Simple, eh? No pressure, kid.
+(You wholeheartedly disagree.)
+
+> User inputs "What is the Datascape?" <
+
+Narrator: Hmm...it's a bit difficult to describe accurately, but as I mentioned before, it's a digital realm. The rules that govern your world, don't apply here.
+Narrator: Everything that exists here is data. I suppose it's a 3-dimensional manifestation of the internet that can be viewed and manipulated.
+Narrator: All significant things on the modern internet have their representations here. Changes to them will reflect here as well, and vice versa.
+Narrator: Kar'm figured this out you see, and now he's trying to change the actual internet by screwing with the state of things here.
+
+> User inputs "Why are you helping me?" <
+
+Narrator: Don't worry about it. Let's just say that your fate..."coincides" with my own.
+
+> User inputs "What's a 'Grand Memer'?" <
+
+Narrator: Hang on. 
+(The Narrator takes out a small book from his satchel, and flips through it.)
+Narrator: Sorry, it's been so long since the last one that I forgot the actual definition. Right, here we are.
+Narrator: And Saint Pepe proclaimed that, the MemeLord hadst told him, that therein shalt be a Grand Memer, one raised every generation. 
+Narrator: Thee duties shalt be fulfilled in order to securest a most lasting peace.
+Narrator: Thine shalt: enforce justice where needed, maintain thee balance of thisin realm, and continue thine efforts to keepeth thee peace and harmony for all.
+Narrator: There ya go, kid. Justice, balance, and peace.
+Narrator: Obviously, Kar'm's invasion has screwed up basically all of these. It's up to you to get rid of him and restore those three principles back to the Datascape.
+Narrator: But uhh, no pressure, eh kid?
+(You nervously sweatdrop)
+
+> User inputs "How do we beat Kar'm?" <
+
+Narrator: Onto the important bits, eh? Alright, listen closely.
+Narrator: In order to defeat Kar'm, you need to gather a certaina amount of relics that contain ancient energies powerful enough to destroy him. They are known to you as "memes".
+Narrator: Not all memes are created equal, however. Some of these will be "dank memes", meaning they will be far more powerful than the normal ones.
+Narrator: You'll get these from the Meme Machine, which I'll show you in a bit.
+
+> User inputs "What is that green thing you're able to use? Is is magic?" <
+
+Narrator: Eh. Kinda. Yes and no.
+Narrator: It's just me manipulating the reality of the Datascape. Kinda like me exerting my will onto the Datascaoe, and getting it to do something.
+Narrator: For me, it manifests as green energy.
+
+> User input here <
+
+Narrator: I think that's everything you need to know. Come with me. I'll guide you to the Meme Machine. It's time to fulfill your destiny, kid.
