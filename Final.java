@@ -81,23 +81,32 @@ public class Final{
   public static void move(int col){
     
     int bottomRow = 5;
-    int nextRow = 1;
     
     if(board[bottomRow][col] == ' '){
       board[bottomRow][col] = xo;
       changeXO();
     }
-    
-    while(board[bottomRow][col] == 'x' || board[bottomRow][col] == 'o'){
-      if(board[bottomRow - nextRow][col] == ' '){
-        board[bottomRow - nextRow][col] = xo;
+    else if(board[bottomRow][col] == 'x' || board[bottomRow][col] == 'o'){
+        board[bottomRow - 1][col] = xo;
         changeXO();
       }
-      if(board[bottomRow - nextRow][col] == 'x' || board[bottomRow - nextRow][col] == 'o'){
-        board[bottomRow - nextRow - 1][col] = xo;
-        changeXO();
-      }
+    else if(board[bottomRow - 1][col] == 'x' || board[bottomRow - 1][col] == 'o'){
+      board[bottomRow - 2][col] = xo;
+      changeXO();
     }
+    else if(board[bottomRow - 2][col] == 'x' || board[bottomRow - 2][col] == 'o'){
+      board[bottomRow - 3][col] = xo;
+      changeXO();
+    }
+    else if(board[bottomRow - 3][col] == 'x' || board[bottomRow - 2][col] == 'o'){
+      board[bottomRow - 4][col] = xo;
+      changeXO();
+    }
+    else if(board[bottomRow - 4][col] == 'x' || board[bottomRow - 4][col] == 'o'){
+      board[bottomRow - 5][col] = xo;
+      changeXO();
+    }
+      
     
   }//end of move
   
