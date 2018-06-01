@@ -9,10 +9,61 @@ import java.io.IOException;
 public class CodeTest{
 
 public static void main(String[]args){
-
   
+  System.out.println(" ");
+  System.out.println("------------------------------------------------------------------------------------------------------------------------------------------");
+  System.out.println(" ");
+  filename = "RealEnd2.txt";
+  readFile(filename);
   
+  System.out.println(" ");
+  System.out.println("------------------------------------------------------------------------------------------------------------------------------------------");
+  System.out.println(" ");
+  filename = "RealEnd3.txt";
+  readFile(filename);
+  
+  System.out.println(" ");
+  System.out.println("------------------------------------------------------------------------------------------------------------------------------------------");
+  System.out.println(" ");
+  filename = "RealEnd4.txt";
+  readFile(filename);
+  
+  System.out.println(" ");
+  System.out.println("------------------------------------------------------------------------------------------------------------------------------------------");
+  System.out.println(" ");
+  filename = "RealEnd5.txt";
+  readFile(filename);
+  
+  System.out.println(" ");
+  System.out.println("------------------------------------------------------------------------------------------------------------------------------------------");
+  System.out.println(" ");
+  filename = "RealEnd6.txt";
+  readFile(filename);
+  
+  System.out.println(" ");
+  System.out.println("------------------------------------------------------------------------------------------------------------------------------------------");
+  System.out.println(" ");
+  filename = "RealEnd7.txt";
+  readFile(filename);
+  
+  if(power >= 7){
+    System.out.println(" ");
+    System.out.println("------------------------------------------------------------------------------------------------------------------------------------------");
+    System.out.println(" ");
+    filename = "RealEndGood.txt";
+    readFile(filename);
+  }
+  else if(power <= 7){
+    System.out.println(" ");
+    System.out.println("------------------------------------------------------------------------------------------------------------------------------------------");
+    System.out.println(" ");
+    filename = "RealEndBad.txt";
+    readFile(filename);
+  }
+  
+      
 }
+    
   
   public static void readFile(String filename){
     
@@ -37,5 +88,4 @@ public static void main(String[]args){
     
     return random;
   }
-
-}
+  }

@@ -1,0 +1,26 @@
+boolean flag;
+  String summon;
+  int holder;
+  int power;
+  
+  while(flag){
+    
+    while(summon == 'S'){
+      System.out.println("Would you like to summon a meme, or gain Knowledge? Enter S for summon, and R for read.");
+      summon = input.next();
+      if(summon == 'S' && knowledge > 0){
+        RNG(random);
+        holder = RNG(random);
+        if(holder >= 0 && holder <= 80){
+          System.out.println("You have summoned a Normal Meme.");
+          power += 1;
+        }
+        else if(holder >= 80 && holder <= 100){
+          System.out.println("You have summoned a Dank Meme. Congrats.");
+          power += 3;
+       }
+        knowledge -= 100;
+      }
+      if(summon == 'R'){
+        break;
+      }
