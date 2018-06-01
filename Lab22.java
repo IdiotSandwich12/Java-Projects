@@ -121,8 +121,24 @@ public class Lab22{
       return true;
     else if(board[3][1] == board[3][2] && board[3][2] == board[3][3] && board[3][3] == board[3][4] && (board[3][1] == 'x' || board[3][1] == 'o'))
       return true;
-    else if(board[2][1] == board[2][2] && board[2][2] == board[2][3] && board[2][3] == board[2][4] && (board[0][2] == 'x' || board[0][2] == 'o'))
+    else if(board[3][2] == board[3][3] && board[3][3] == board[3][4] && board[3][4] == board[3][5] && (board[3][2] == 'x' || board[3][2] == 'o'))
       return true;
+    
+    else if(board[4][0] == board[4][1] && board[4][1] == board[4][2] && board[4][2] == board[4][3] && (board[4][0] == 'x' || board[4][0] == 'o'))
+      return true;
+    else if(board[4][1] == board[4][2] && board[4][2] == board[4][3] && board[4][3] == board[4][4] && (board[4][1] == 'x' || board[4][1] == 'o'))
+      return true;
+    else if(board[4][2] == board[4][3] && board[4][3] == board[4][4] && board[4][4] == board[4][5] && (board[4][2] == 'x' || board[4][2] == 'o'))
+      return true;
+    
+    else if(board[5][0] == board[5][1] && board[5][1] == board[5][2] && board[5][2] == board[5][3] && (board[5][0] == 'x' || board[5][0] == 'o'))
+      return true;
+    else if(board[5][1] == board[5][2] && board[5][2] == board[5][3] && board[5][3] == board[5][4] && (board[5][1] == 'x' || board[5][1] == 'o'))
+      return true;
+    else if(board[5][2] == board[5][3] && board[5][3] == board[5][4] && board[5][4] == board[5][5] && (board[5][2] == 'x' || board[5][2] == 'o'))
+      return true;
+    
+    
     
     
     
